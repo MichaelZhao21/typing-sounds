@@ -4,7 +4,7 @@ Have you ever wanted to screen record and have the nice typing sounds of your ke
 
 ## Setup
 
-```
+```bash
 # Create a virtual environment
 python -m venv venv
 
