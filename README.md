@@ -22,3 +22,6 @@ python -m pip install -r requirements.txt
 
 Run the app using `python main.py`. To stop the recording, simply hit `CTRL + SHIFT + T`.
 
+## Output
+
+The output of the app will be in `output_audio.wav`. Make sure to save it as it will be overwritten the next time you run the app!
